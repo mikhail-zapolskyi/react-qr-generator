@@ -38,10 +38,10 @@ function App() {
 			callback: (pdf) => {
 				pdf.save(`${text}.pdf`);
 			},
-			width: window.innerWidth / 2,
+			width: 300,
 			windowWidth: 500,
-			x: 75,
-			y: 200,
+			x: 150,
+			y: 250,
 		});
 	};
 
