@@ -20,4 +20,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-## Open [https://mikhail-zapolskyi.github.io/react-qr-generator/](Link to QR Generator)
+## Link to QR Generator
+
+[https://mikhail-zapolskyi.github.io/react-qr-generator/](Open Link to QR Generator)
