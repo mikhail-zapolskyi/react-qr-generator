@@ -22,6 +22,4 @@ Your app is ready to be deployed!
 
 ## Link to QR Generator
 
-Open [https://mikhail-zapolskyi.github.io/react-qr-generator/](http://localhost:3000) to view it in your browser.
-
-<!-- [https://mikhail-zapolskyi.github.io/react-qr-generator/]("Open Link to QR Generator") -->
+Open [QR Generator](https://mikhail-zapolskyi.github.io/react-qr-generator/) to view it in your browser.
