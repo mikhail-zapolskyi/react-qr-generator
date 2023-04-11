@@ -1,0 +1,20 @@
+.app {
+	position: relative;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.form {
+	width: 32rem;
+	height: auto;
+	display: grid;
+	gap: 1rem;
+}
+
+.input {
+	padding: 1rem;
+	border-radius: 0.5rem;
+}

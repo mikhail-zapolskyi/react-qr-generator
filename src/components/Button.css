@@ -1,0 +1,26 @@
+.button {
+	background: #fff;
+	font-size: 4rem;
+	border: 1px solid #000;
+	border-radius: 0.5rem;
+	padding: 1rem;
+	text-align: center;
+	cursor: pointer;
+}
+
+.reset,
+.download {
+	font-size: 2rem !important;
+}
+
+.reset {
+	position: absolute;
+	top: 2%;
+	left: 2%;
+}
+
+.download {
+	position: absolute;
+	top: 2%;
+	right: 2%;
+}
